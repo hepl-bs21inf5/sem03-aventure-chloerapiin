@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial',sans-serif; /* Choisir une police de caractères pour toute la page*/
+    background-image: url("https://prmeng.rosselcdn.net/sites/default/files/dpistyles_v2/prm_16_9_856w/2023/10/18/node_458661/39898462/public/2023/10/18/6541431.jpeg?itok=iuCj2ux31698135179");
+    color: pink;
+    
+  }
+  p {
+    font-size: 20px;
+  }
+h1 {
+  color:white;/*Couleur du titre*/
+}
+a:link {
+  color: white;/*Couleur des liens*/
+  font-size: 18px;/*Taille de police des liens*/
+}
+a:visited{
+  color:white;
+}
+a:hover {
+  text-decoration: none;/*Enlever le soulignement des liens*/
+  color: #f1bee5 /*Couleur des liens au survol*/
+}
+ul {
+  list-style-type: square; /* Change le symbole de la liste en carré */
+}
+
