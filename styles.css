@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial',sans-serif; /* Choisir une police de caractères pour toute la page*/
+    background-color: #fdf6e3;
+    color: #657b83;
+    
+  }
+  p {
+    font-size: 20px;
+  }
+h1 {
+  color: #268bd2;/*Couleur du titre*/
+}
+a:link {
+  color: #dc322f;/*Couleur des liens*/
+  font-size: 18px;/*Taille de police des liens*/
+}
+
+a:hover {
+  text-decoration: none;/*Enlever le soulignement des liens*/
+  color: #6c71c4 /*Couleur des liens au survol*/
+}
+ul {
+  list-style-type: square; /* Change le symbole de la liste en carré */
+}
